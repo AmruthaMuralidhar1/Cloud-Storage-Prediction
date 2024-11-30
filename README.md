@@ -1,5 +1,3 @@
-# hpe-cty-app
-
 # Predicting cloud storage consumption using time-series analysis
 
 • Application uses time-series based data for prediction of future trend of storage consumption
